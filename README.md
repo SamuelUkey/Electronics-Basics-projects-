@@ -45,7 +45,7 @@ to "roll" a number 1–6.
 **Components:** NE555 Timer IC, CD4017 Decade Counter, LEDs, Push Button,
 Resistors, Capacitors
 
-*(Add circuit image here)*
+<img width="744" height="573" alt="image" src="https://github.com/user-attachments/assets/2fbf407a-50d0-4f43-854e-8a3baeef17f6" />
 
 ---
 
