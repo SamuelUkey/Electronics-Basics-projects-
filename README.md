@@ -18,7 +18,6 @@ A regulated 5V power supply using the 7805 voltage regulator, converting a
 **Applications:** Arduino/ESP32 power supply, breadboard power source for
 small projects
 
-<img width="656" height="508" alt="image" src="https://github.com/user-attachments/assets/f776259a-243d-4277-87b2-5f2dd5042979" />
 
 ---
 
